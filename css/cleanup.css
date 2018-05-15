@@ -3,8 +3,7 @@
 body #wall #tag-2,
 body #wall #tag-3.slick.wicked,
 div#wall div.parent div#tag-4,
-div#wall div.parent div#tag-5,
-body #wall #tag-3.slick.wicked{
+div#wall div.parent div#tag-5.slick{
   background: none;
 }
 /*div[id^="tag"]*/
