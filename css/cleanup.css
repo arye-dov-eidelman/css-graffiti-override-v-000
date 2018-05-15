@@ -1,5 +1,5 @@
 /* write your override styles here */
-#wall .tag-1, body #wall #tag-2, body #wall #tag-3{
+#wall .tag-1, body #wall #tag-2, body #wall #tag-3.slick.wicked{
   background: none;
   color: red
 }
