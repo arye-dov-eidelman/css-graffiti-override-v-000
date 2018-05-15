@@ -1,10 +1,10 @@
 /* write your override styles here */
-#wall .tag-1, body #wall #tag-2, body #wall #tag-3.slick.wicked{
-  background: none;
-  color: red
-}
-
-div#wall div.parent div#tag-4, div#wall div.parent div#tag-5, body #wall #tag-3.slick.wicked{
+#wall .tag-1,
+body #wall #tag-2,
+body #wall #tag-3.slick.wicked,
+div#wall div.parent div#tag-4,
+div#wall div.parent div#tag-5,
+body #wall #tag-3.slick.wicked{
   background: none;
   color: red
 }
