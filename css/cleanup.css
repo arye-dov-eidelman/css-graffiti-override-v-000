@@ -3,4 +3,9 @@
   background: none;
   color: red
 }
+
+div#wall div.parent div#tag-4, body #wall #tag-2, body #wall #tag-3.slick.wicked{
+  background: none;
+  color: red
+}
 /*div[id^="tag"]*/
